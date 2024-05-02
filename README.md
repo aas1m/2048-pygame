@@ -1,5 +1,5 @@
 # 2048-pygame
-GUI based 2048 game created using pygame
+A pygame implementation of the popular single-player puzzle game, 2048.
 
 ## Getting Started
 1. Get Python 3.x and clone this repository
